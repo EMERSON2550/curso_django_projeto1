@@ -1,3 +1,2 @@
 print('ola mundo')
-#ola
-
+ola = 'ola mundo'
